@@ -28,3 +28,5 @@ public class M02 {
         System.out.println("distance(second) = " + first.distance(second));  
     }
 }
+
+changes by developer 01
